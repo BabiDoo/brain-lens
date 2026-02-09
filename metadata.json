@@ -1,0 +1,7 @@
+{
+  "name": "BrainLens-Gemini3Hackathon(ahaMode)",
+  "description": "Multimodal, evidence-grounded research copilot that turns papers into clear insights, evidence cards, and audio summaries — built for the Google Gemini 3 Hackathon.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

@@ -35,7 +35,7 @@ BrainLens helps you **verify claims**, **scan evidence**, and **turn ideas into 
 --- 
 
 ## 🔗 Links
-- [Watch YouTube Demo!](https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID)
+- [Watch YouTube Demo!](https://youtu.be/mtntmzaJGFM)
 
 - [DevPost](https://devpost.com/software/REPLACE_WITH_YOUR_PROJECT_SLUG) 
 ---

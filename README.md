@@ -14,9 +14,17 @@ BrainLens helps you **verify claims**, **scan evidence**, and **turn ideas into 
 
 ---
 
+
+<div align="center">
+<img width="500" alt="BrainLens Demo Gif" src="./src/assets/demo.gif" />
+</div>
+
+
+---
+
 ## Key Features
 
-*   **Intelligent Circuiting**: Get value early.
+*   **Intelligent Circuiting**: Get high value.
 
 *   **A-HA Mode**: Get *powerfull* *insights* and deep-dive into then to       generate formal  hypotheses and experimental protocols.
 
